@@ -2,7 +2,6 @@
 -> Outline a simple description of the project
 -- COPERATE TRANSPORT SERVICE
 
-
 ## General Information
 -> Give a brief information about the project.
 -> How does it solve dolve the problem.
@@ -22,4 +21,4 @@
 
 ## Usage
 -> How does one use the system
-->
+
