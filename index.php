@@ -43,7 +43,7 @@
 <div class="hero-text" style="font-size:50px; text-align: center; position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);color: white;">
            
            <h1 class="animated rubberBand" >COPERATE TRANSPORT SERVICE</h1>
-            <a class="btn btn-success" style="text-align: center" href="login.php">Join Bus</a> 
+            <a class="btn btn-info" style="text-align: center" href="">Join Bus</a> 
           </div> 
  
 </body>
